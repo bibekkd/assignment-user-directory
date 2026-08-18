@@ -34,7 +34,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             </div>
             <div className="flex items-center gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/bibekkd/assignment-user-directory"
                 target="_blank"
                 rel="noreferrer"
                 className="text-sm font-medium text-zinc-650 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100 transition-colors"
